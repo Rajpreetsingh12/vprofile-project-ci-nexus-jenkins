@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         cluster = "vproprod"
-        service = "vproappprodsvc"
+        service = "vproprodsvc"
     }
 
     stages {
